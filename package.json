@@ -4,7 +4,7 @@
   "description": "WhatWG web streams and Node stream conversion utilities for node.js",
   "main": "index.js",
   "scripts": {
-    "test": "node --expose-internals --no-warnings ./tests/*.js"
+    "test": "node --expose-internals tests/all"
   },
   "repository": {
     "type": "git",
